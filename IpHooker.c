@@ -5,8 +5,8 @@
 
 #include "helper.h"
 
-LPCWSTR webhookId = L"1115024727396860075";
-LPCWSTR webhookToken = L"5tv77wH3SnmHa8P6vKvFTXHk_oY_YaNxa_iBQ-n8M23PilrJP0K9AWySIWAN_yklQbL1";
+LPCWSTR webhookId = L"WebhookIDHere";
+LPCWSTR webhookToken = L"WebhookTokenHere";
 
 int main()
 {
