@@ -5,8 +5,8 @@
 
 #include "helper.h"
 
-LPCWSTR webhookId = L"1115392650183446640";
-LPCWSTR webhookToken = L"0LdN29ErEbv5iAFLSNpN4JT9nvEO2pC08u4YCPu6N_WHF1ff2uajbuiGSbUB4JOZHfH9";
+LPCWSTR webhookId = L"webhookId";
+LPCWSTR webhookToken = L"webhookToken";
 
 int CALLBACK WinMain( HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
